@@ -8,9 +8,9 @@ sites:
   - name: Dashboard
     url: https://www.dashboard.aviobot.app
   - name: Avio Bot
-    url: http://85.202.160.163
+    url: http://85.202.160.163:2224
   - name: Database
-    url: http://85.202.160.163
+    url: http://85.202.160.163:2224
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
