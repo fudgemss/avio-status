@@ -1,8 +1,8 @@
 [
   {
     "name": "aviobot.app",
-    "url": "https://aviobot.app",
-    "icon": "https://icons.duckduckgo.com/ip3/aviobot.app.ico",
+    "url": "https://www.aviobot.app",
+    "icon": "https://icons.duckduckgo.com/ip3/www.aviobot.app.ico",
     "slug": "aviobot-app",
     "status": "up",
     "uptime": "100.00%",
@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 611,
-    "timeWeek": 611,
-    "timeMonth": 611,
-    "timeYear": 611,
+    "time": 644,
+    "timeDay": 644,
+    "timeWeek": 644,
+    "timeMonth": 644,
+    "timeYear": 644,
     "dailyMinutesDown": {}
   },
   {
     "name": "Dashboard",
-    "url": "https://dashboard.aviobot.app",
-    "icon": "https://icons.duckduckgo.com/ip3/dashboard.aviobot.app.ico",
+    "url": "https://www.dashboard.aviobot.app",
+    "icon": "https://icons.duckduckgo.com/ip3/www.dashboard.aviobot.app.ico",
     "slug": "dashboard",
     "status": "down",
     "uptime": "0.00%",
@@ -34,13 +34,13 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-09": 689,
+      "2026-07-09": 757,
       "2026-07-08": 150
     }
   },
   {
     "name": "Avio Bot",
-    "url": "https://85.202.160.163",
+    "url": "http://85.202.160.163",
     "icon": "https://icons.duckduckgo.com/ip3/85.202.160.163.ico",
     "slug": "avio-bot",
     "status": "down",
@@ -55,13 +55,13 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-09": 689,
+      "2026-07-09": 757,
       "2026-07-08": 145
     }
   },
   {
     "name": "Database",
-    "url": "https://85.202.160.163",
+    "url": "http://85.202.160.163",
     "icon": "https://icons.duckduckgo.com/ip3/85.202.160.163.ico",
     "slug": "database",
     "status": "down",
@@ -76,7 +76,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-09": 689,
+      "2026-07-09": 757,
       "2026-07-08": 140
     }
   }
